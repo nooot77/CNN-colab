@@ -3,4 +3,5 @@ Developed a system that uses machine learning techniques to classify websites ba
 
 to run notebook on mybinder press the badge below
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nooot77/CNN/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/nooot77/CNN-colab/HEAD?labpath=URL_based_Phishing_Analysis_Using_Machine_Learning.ipynb
