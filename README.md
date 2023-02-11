@@ -9,3 +9,6 @@ to run notebook on mybinder press the badge below
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nooot77/CNN-colab/blob/main/URL_based_Phishing_Analysis_Using_Machine_Learning.ipynb){target="blank"}
+
+
+<a href="https://colab.research.google.com/github/nooot77/CNN-colab/blob/main/URL_based_Phishing_Analysis_Using_Machine_Learning.ipynb" target="_blank">Open In Colab</a>
